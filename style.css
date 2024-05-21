@@ -339,6 +339,19 @@ overflow-x:hidden;
   justify-content: space-around;
 
 }
+.pro-preguntas-s{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.pro-preguntas-s h3{
+  width: 250px;
+  
+}
+
 .pro-preguntas-c div{
   background-color:#F090BB ;
   margin-top: 20px;
