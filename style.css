@@ -306,6 +306,7 @@ overflow-x:hidden;
 
 .info p{
   padding: 20px;
+   text-align: justify;
 }
 .info img {
   width:500px;
