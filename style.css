@@ -48,6 +48,15 @@ overflow-x:hidden;
    
    font-family: 'Truculenta';
  }
+.empaque{
+  background-image: url(imagenes/fondo-pag-2.png);
+  background-size: cover;
+  padding: 50px; /* Ajusta según tu diseño */
+  font-family: 'Truculenta';
+}
+.contenedor-empaque{
+  height: 550px;
+}
 
  .listado li{ display: inline;
     flex:auto ;
