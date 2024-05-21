@@ -90,7 +90,7 @@ overflow-x:hidden;
     position: absolute;
     margin: auto;
     overflow: hidden;
-    margin-top: -230px;
+    margin-top: -250px;
     left: 80%;
 }
 
@@ -108,7 +108,7 @@ overflow-x:hidden;
   position: absolute;
   margin: auto;
   overflow: hidden;
-  margin-top: 245px;
+  margin-top: 400px;
   left: -9%;
 }
 
@@ -241,10 +241,11 @@ overflow-x:hidden;
   display: flex;
 }
 .text{
-  padding-left: 120px;
+  padding-left: 80px;
   padding-right: 100px;
   font-size: 20px;
   width: 100%;
+   text-align: justify;
 }
 
 #carouselExampleInterval{
@@ -328,6 +329,7 @@ overflow-x:hidden;
 
 .pro-preguntas h3{
   width: 250px;
+   text-align: justify;
 }
 
 .pro-preguntas-c{
@@ -414,7 +416,7 @@ overflow-x:hidden;
   margin-top: 25px;
 }
 .img-conta{
-  margin-top: -109px;
+  margin-top: -45px;
 }
 
 button {
