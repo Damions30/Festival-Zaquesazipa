@@ -634,8 +634,10 @@ button {
 .contenedor-dos {
   height: auto;
 }
-
-    .pro-preguntas-s {
+.contenedor-seis {
+    text-align: center;
+}
+    .contenedor-pro-preguntas-s {
     width: 100%;
     display: flex;
     align-items: center;
