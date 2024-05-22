@@ -498,6 +498,9 @@ button {
     width: 330px;
     margin-top: 10px;
   }
+   .contenedor-empaque {
+  height: auto;
+}
 
   .muneca img{
     order: 1;
