@@ -39,24 +39,7 @@ overflow-x:hidden;
     align-items: flex-end;
 
  }
-#carouselExampleInterval{
-   align-items: center;
-   justify-content: center;
 
-   margin: auto;
-   width:55%;
-}
-
-.carusel{
-   margin-top: 25px;
-}
- .dos {
-   background-image: url(imagenes/fondo-integra.png);
-   background-size: cover;
-   padding: 50px; /* Ajusta según tu diseño */
-   font-family: 'Truculenta';
- }
- 
 
  .menu .imagen{
    padding-left: 30px;
