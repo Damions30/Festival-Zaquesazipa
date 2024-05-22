@@ -50,6 +50,12 @@ overflow-x:hidden;
 .carusel{
    margin-top: 25px;
 }
+ .dos {
+   background-image: url(imagenes/fondo-integra.png);
+   background-size: cover;
+   padding: 50px; /* Ajusta según tu diseño */
+   font-family: 'Truculenta';
+ }
  
 
  .menu .imagen{
