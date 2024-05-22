@@ -39,6 +39,18 @@ overflow-x:hidden;
     align-items: flex-end;
 
  }
+#carouselExampleInterval{
+   align-items: center;
+   justify-content: center;
+
+   margin: auto;
+   width:55%;
+}
+
+.carusel{
+   margin-top: 25px;
+}
+ 
 
  .menu .imagen{
    padding-left: 30px;
