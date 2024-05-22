@@ -634,15 +634,7 @@ button {
 .contenedor-dos {
   height: auto;
 }
-.contenedor-seis {
-    text-align: center;
-}
-    .contenedor-pro-preguntas-s {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
+
    flex-wrap: wrap
 
 .pro-preguntas-c {
