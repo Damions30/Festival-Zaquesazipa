@@ -634,9 +634,14 @@ button {
 .contenedor-dos {
   height: auto;
 }
- .contenedor-seis {
-    text-align: center;
+
+    .pro-preguntas-s {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
+
 .pro-preguntas-c {
   width: 100%;
   display: flex;
