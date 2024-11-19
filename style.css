@@ -226,13 +226,13 @@ overflow-x:hidden;
   width: 40%;
 }
 .bebida{
-  margin-right: -70px;
+  margin-right: -50px;
 }
 .bebida img{
-  height: 450px;
+  height: 350px;
   /* transform: rotate(345deg); */
-  width: 550px;
-  margin-top: 10px;
+  width: 450px;
+  margin-top: 100px;
 }
 
 .muneca img{
@@ -497,9 +497,9 @@ button {
     margin-right: 0%;
   }
   .bebida img {
-    height: 330px;
-    transform: rotate(345deg);
-    width: 330px;
+    height: 300px;
+    /* transform: rotate(345deg); */
+    width: 300px;
     margin-top: 10px;
   }
    .contenedor-empaque {
